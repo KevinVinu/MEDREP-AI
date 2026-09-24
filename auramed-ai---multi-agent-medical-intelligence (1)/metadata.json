@@ -1,0 +1,7 @@
+{
+  "name": "AuraMed AI - Multi-Agent Medical Intelligence",
+  "description": "Hackathon-ready medical AI platform that translates complex clinical records and PDFs into human-understandable reports using multi-agent intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

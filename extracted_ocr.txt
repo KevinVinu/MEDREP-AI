@@ -1,0 +1,172 @@
+--- Page 1 ---
+
+RIVERSIDE FAMILY MEDICINE
+Fictional training document
+
+# OUTPATIENT MEDICAL REPORT
+Riverside Family Medicine & Internal Medicine
+
+**FICTIONAL TRAINING REPORT - NOT A REAL MEDICAL RECORD**
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **Patient Name** | Johny S. | **MRN** | RMF-TEST-20481 |
+| **Date of Birth** | 14-Aug-1989 | **Age / Sex** | 37 years / Male |
+| **Date of Visit** | 24-Sep-2026 | **Visit Type** | Outpatient follow-up |
+| **Attending Physician** | Dr. Emily Carter, MD | **Department** | Internal Medicine |
+
+### CHIEF COMPLAINT
+Follow-up for elevated blood pressure and review of recent laboratory results. Patient also reports intermittent heartburn after heavy meals and seasonal nasal congestion.
+
+### HISTORY OF PRESENT ILLNESS
+Johny S. is a 37-year-old male presenting for a routine internal medicine follow-up. He reports home blood pressure readings averaging approximately 145-150/90-94 mmHg over the past month. He denies chest pain, syncope, palpitations, focal weakness, or shortness of breath. He reports increased thirst at times but denies polyuria, vomiting, or abdominal pain. He describes burning epigastric discomfort and sour taste two to three evenings per week, usually after spicy or late meals. He also reports recurrent sneezing and nasal congestion during seasonal changes. There is no current fever, cough, wheezing, or acute respiratory distress.
+
+### PAST MEDICAL HISTORY
+Essential hypertension diagnosed in 2024. Prediabetes noted previously; recent laboratory results now meet criteria for diabetes in this fictional scenario. Mixed hyperlipidemia documented in prior screening. No known cardiovascular disease, chronic kidney disease, or prior stroke.
+
+### FAMILY HISTORY
+Father with hypertension and hyperlipidemia. Mother with allergic rhinitis. No known family history of premature myocardial infarction.
+
+### ALLERGIES
+**Drug allergies:** No known drug allergies (NKDA). **Food allergies:** None reported.
+
+### CURRENT MEDICATIONS BEFORE THIS VISIT
+
+| Medication | Strength | Directions | Adherence |
+| :--- | :--- | :--- | :--- |
+| Amlodipine | 5 mg | 1 tablet once daily | Taking regularly |
+| Metformin | 500 mg | 1 tablet with evening meal | Started 2 weeks ago |
+
+***
+Synthetic patient record for OCR / NER / ICD-10-CM / summarization testing
+Page 1
+
+--- Page 2 ---
+
+RIVERSIDE FAMILY MEDICINE
+Fictional training document
+
+### VITAL SIGNS
+
+| | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **BP** | 148/92 mmHg | **Pulse** | 82 bpm | **Resp.** | 16/min |
+| **Temp.** | 98.4 F | **SpO2** | 98% RA | **Weight** | 86.4 kg |
+| **Height** | 176 cm | **BMI** | 27.9 kg/m2 | **Pain** | 2/10 |
+
+### PHYSICAL EXAMINATION
+
+| System | Findings |
+| :--- | :--- |
+| General | Alert, oriented, cooperative, in no acute distress. |
+| HEENT | Mild bilateral nasal mucosal edema. Oropharynx clear. No tonsillar exudate. |
+| Cardiovascular | Regular rate and rhythm. No murmurs, rubs, or gallops. Peripheral pulses palpable. |
+| Respiratory | Lungs clear to auscultation bilaterally. No wheezes, crackles, or rhonchi. |
+| Abdomen | Soft, non-distended, non-tender. No guarding or rebound. |
+| Neurologic | Grossly intact. No focal motor or sensory deficit noted. |
+| Extremities | No edema or calf tenderness. |
+
+### LABORATORY RESULTS (18-Sep-2026)
+
+| Test | Result | Unit | Reference Range | Flag |
+| :--- | :--- | :--- | :--- | :--- |
+| Fasting glucose | 156 | mg/dL | 70-99 | **H** |
+| HbA1c | 7.4 | % | 4.0-5.6 | **H** |
+| Total cholesterol | 232 | mg/dL | <200 | **H** |
+| LDL cholesterol | 152 | mg/dL | <100 | **H** |
+| HDL cholesterol | 39 | mg/dL | >=40 | **L** |
+| Triglycerides | 205 | mg/dL | <150 | **H** |
+| Creatinine | 1.0 | mg/dL | 0.7-1.3 | Normal |
+| eGFR | 94 | mL/min/1.73m2 | >=60 | Normal |
+| ALT | 29 | U/L | 7-56 | Normal |
+| TSH | 2.1 | mIU/L | 0.4-4.0 | Normal |
+
+***
+Synthetic patient record for OCR / NER / ICD-10-CM / summarization testing
+Page 2
+
+--- Page 3 ---
+
+RIVERSIDE FAMILY MEDICINE
+Fictional training document
+
+### ASSESSMENT / DIAGNOSIS
+The following diagnoses are fictional and are included to create a realistic ICD-10-CM coding test case.
+
+| Priority | Diagnosis | ICD-10-CM | Clinical evidence in this synthetic record |
+| :--- | :--- | :--- | :--- |
+| 1 | Essential (primary) hypertension | **I10** | BP 148/92 mmHg; elevated home readings; no secondary cause documented. |
+| 2 | Type 2 diabetes mellitus without complications | **E11.9** | Fasting glucose 156 mg/dL and HbA1c 7.4%; no complication documented. |
+| 3 | Mixed hyperlipidemia | **E78.2** | Elevated total cholesterol, LDL and triglycerides with low HDL. |
+| 4 | Gastro-esophageal reflux disease without esophagitis | **K21.9** | Intermittent heartburn and sour taste; no esophagitis documented. |
+| 5 | Allergic rhinitis, unspecified | **J30.9** | Seasonal sneezing and congestion; no more specific trigger documented. |
+
+### PLAN
+1. Continue amlodipine with dose adjustment as documented below; monitor home blood pressure twice daily for 14 days.
+2. Continue metformin with meals; reinforce adherence and dietary measures; repeat HbA1c in approximately 3 months.
+3. Begin lipid-lowering therapy and repeat fasting lipid panel after the treatment interval.
+4. For reflux symptoms, use the medication listed below and avoid late meals, large meals, and known trigger foods.
+5. Use the listed antihistamine for seasonal nasal symptoms; reassess if symptoms persist or become year-round.
+6. Routine diabetic monitoring to include foot examination at follow-up and consideration of an eye examination referral. No acute complication documented today.
+7. Return visit planned in 4 weeks for blood-pressure review, or sooner for new/worsening symptoms.
+
+### PRESCRIPTION / MEDICATION ORDERS
+
+| Medication | Dose | Sig | Route | Duration / Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| Amlodipine | 10 mg | Take 1 tablet once daily | PO | 30 days / 30 tablets |
+| Metformin ER | 500 mg | Take 1 tablet twice daily with meals | PO | 90 days / 180 tablets |
+| Atorvastatin | 20 mg | Take 1 tablet nightly | PO | 90 days / 90 tablets |
+| Omeprazole | 20 mg | Take 1 capsule 30 minutes before breakfast once daily | PO | 28 days / 28 capsules |
+| Cetirizine | 10 mg | Take 1 tablet once daily as needed for allergy symptoms | PO | 30 days / 30 tablets |
+
+**Medication orders above are fictional and included only to create test data for an OCR/NER/ICD-10/summarization system.**
+
+### FOLLOW-UP / SAFETY INFORMATION
+Follow up in approximately 4 weeks for review of home blood pressure readings and medication tolerance. This synthetic document does not provide individualized medical advice. Any real patient with concerning or worsening symptoms should seek professional medical evaluation.
+
+***
+Synthetic patient record for OCR / NER / ICD-10-CM / summarization testing
+Page 3
+
+--- Page 4 ---
+
+RIVERSIDE FAMILY MEDICINE
+Fictional training document
+
+### CLINICAL NARRATIVE - ADDITIONAL DOCUMENTATION
+This page intentionally contains context that should not all be treated as active diagnoses.
+
+#### Review of Systems
+
+| System | Reported findings |
+| :--- | :--- |
+| Constitutional | No fever, chills, or unintentional weight loss. |
+| Cardiovascular | No chest pain, orthopnea, paroxysmal nocturnal dyspnea, or syncope. |
+| Respiratory | No shortness of breath or hemoptysis. No current wheezing. |
+| Gastrointestinal | Intermittent reflux symptoms as described above. No hematemesis, melena, or persistent vomiting. |
+| Genitourinary | No dysuria or hematuria. Reports occasional increased thirst. |
+| Neurologic | No focal weakness, seizure, or loss of consciousness. |
+| ENT | Intermittent seasonal sneezing and nasal congestion. |
+
+### SOURCE / CODING NOTES FOR TESTING
+1. Patient identity, dates, medical history, medication orders, laboratory values, and diagnosis statements in this file are entirely fictional.
+2. The ICD-10-CM codes intentionally placed in the assessment section are: I10, E11.9, E78.2, K21.9, and J30.9.
+3. The document contains both positive and negative clinical statements so that NER results can be evaluated separately from context/negation handling.
+4. The document contains repeated medical terminology in sections such as family history and review of systems. A robust system should avoid turning every mention into an active patient diagnosis.
+5. The main diagnosis/code table is deliberate ground truth for pipeline testing; the model should preserve the distinction between a stated diagnosis and a merely mentioned condition.
+
+### EXPECTED HIGH-LEVEL PIPELINE TARGET
+
+| Input | Fictional outpatient report PDF |
+| :--- | :--- |
+| **Text extraction** | All 4 pages + page boundaries |
+| **NER** | Diseases, symptoms, medications, tests, findings and other biomedical entities |
+| **Context** | Positive/negative/history/family-history/plan distinctions |
+| **ICD-10-CM** | Map active documented diagnoses to the codes stated in the assessment |
+| **Summary** | Human-readable explanation without introducing unsupported facts |
+| **JSON** | Patient metadata + findings + entities + diagnoses + ICD codes + medication orders + provenance |
+
+***
+Synthetic patient record for OCR / NER / ICD-10-CM / summarization testing
+Page 4
